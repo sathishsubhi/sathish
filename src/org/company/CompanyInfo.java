@@ -11,11 +11,19 @@ public class CompanyInfo {
 	public void companyAdress() {
 		System.out.println("tambaram,chennai");
 	}
+//<<<<<<< HEAD
+	private void amar() {
+		// TODO Auto-generated method stub
+
+	}
+
+//=======
 	private void add() {
 		// TODO Auto-generated method stub
 
 	}
 	
+//>>>>>>> 83998a22bf6ecf934350a371e8549f0f43e52682
 	public static void main(String[] args) {
 		CompanyInfo c=new CompanyInfo();
 		c.companyName();
