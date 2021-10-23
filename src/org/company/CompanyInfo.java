@@ -11,6 +11,11 @@ public class CompanyInfo {
 	public void companyAdress() {
 		System.out.println("tambaram,chennai");
 	}
+	private void amar() {
+		// TODO Auto-generated method stub
+
+	}
+
 	public static void main(String[] args) {
 		CompanyInfo c=new CompanyInfo();
 		c.companyName();
